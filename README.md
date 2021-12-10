@@ -1,9 +1,9 @@
 # Bitcoin Ransomware Detection using deep neural networks
 
 ## Report Links
-Literature Survey [Report](https://drive.google.com/file/d/11vb0aNbmLAiJf4WmARSgy5_DmnAvYWKn/view?usp=sharing)
+Literature Survey [Report](https://github.com/Abhishek-Aditya-bs/Bitcoin-Ransomware-Detection-Using-Deep-Neural-Networks/blob/main/Bitcoin-Ransomware-Detection-Literature-Review.pdf)
 
-Final Report [Report](https://github.com/iVishalr/Bitcoin-Ransomware-Detection/blob/main/Bitcoin-Ransomware-Detection.pdf)
+Final Report [Report](https://github.com/Abhishek-Aditya-bs/Bitcoin-Ransomware-Detection-Using-Deep-Neural-Networks/blob/main/Bitcoin-Ransomware-Detection.pdf)
 
 ## Crypto Ransomware
 
